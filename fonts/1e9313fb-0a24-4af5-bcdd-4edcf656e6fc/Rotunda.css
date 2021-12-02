@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rotunda';
+    src: url('fonts/Rotunda.eot');
+    src: url('fonts/Rotunda.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Rotunda.woff2') format('woff2'),
+         url('fonts/Rotunda.woff') format('woff'),
+         url('fonts/Rotunda.ttf')  format('truetype'),
+         url('fonts/Rotunda.svg#Rotunda') format('svg');
+}

@@ -1,0 +1,277 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+body {
+  font-family: "Hind Kochi", sans-serif;
+}
+.header-area {
+  background-color: #0e0e0e;
+  height: 100vh;
+  background-size: COVER;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0px !important;
+  padding: 0px !important;
+  background-position: center;
+}
+.hero-content p {
+  color: #fff;
+  font-size: 23px;
+  margin-bottom: 39px;
+}
+.hero-content h1 {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 92px;
+}
+.hero-content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 150px;
+}
+
+.event-bar-section {
+  height: 50vh;
+  background: #0e0e0e 0% 0% no-repeat padding-box;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.event-content h3 {
+  font-size: 50px;
+  color: #fff;
+  margin-bottom: 83px;
+}
+.event-content p {
+  color: #fff;
+}
+
+.event-content h5 {
+  font-size: 32px;
+  color: #fff;
+  line-height: 41px;
+  margin-bottom: 83px;
+}
+.event-content p {
+  font-size: 25px;
+}
+
+.event-content h6 {
+  color: #fff;
+  margin-top: 80px;
+}
+
+.event-content h6 a {
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+/* footer section */
+
+.footer-section {
+  background: #000;
+  height: 50vh;
+  text-align: center;
+  height: 60vh;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.instagram-gallery-section {
+  background: #0e0e0e;
+  text-align: center;
+  height: 100%;
+  margin: auto;
+  padding-bottom: 100px;
+}
+.table-inline {
+  opacity: 0 !important;
+  display: none !important;
+  visibility: hidden !important;
+}
+.are-you-ready-section {
+  background: #0e0e0e;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: -54px;
+  z-index: 999;
+  position: relative;
+  padding-top: 50px;
+}
+.ready-content {
+  color: #fff;
+  line-height: 1.8;
+}
+.ready-content a {
+  color: #fff;
+}
+.ready-content h4 {
+  color: #fff;
+  font-size: 30px;
+  margin-bottom: 58px;
+}
+.ready-content h5 {
+  color: #fff;
+  font-size: 25px;
+  margin-bottom: 58px;
+}
+.social-icon a {
+  color: #fff;
+  display: inline-block;
+  padding-right: 17px;
+}
+.social-icon {
+  margin-bottom: 22px;
+  margin-top: 38px;
+}
+
+.footer-content {
+  color: #fff;
+}
+
+.footer-logo {
+  margin-bottom: 80px;
+}
+.footer-content h5 {
+  font-size: 20px;
+  margin-bottom: 38px;
+}
+.footer-content p {
+  font-size: 15px;
+}
+
+.f-b-content {
+  color: #fff;
+  line-height: 40px;
+}
+.f-b-content a {
+  color: #fff;
+}
